@@ -31,7 +31,7 @@ for x in range (0,height):
     		f.write("</div>")
     		f.write("<div style=\"width: 100%; display: table;\">")
     		f.write("<div style=\"display: table-row; height: 1px;\">")
-#f.write("<div style=\"float:left;width: 1px;height: 1px;background-color:rgba("+str(pixel[0])+","+str(pixel[1])+","+str(pixel[2])+");\"></div>\n")
+
 f.write("</body>\n")
 f.write("</html>\n")
 
